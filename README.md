@@ -29,7 +29,7 @@ Honestly? It’s just for fun — but you could use it for mood-based UI inspira
 **Name:** Kaviha R. M  
 **Degree:** B.E. CSE  
 **College:** V.S.B College of Engineering Technical Campus  
-**Email:** kaviharavichandran2006@gmail.com 
+**Email:** kaviharavichandran2006@gmail.com
 **GitHub:** https://github.com/kaviha2006 
 
 ## 📜 License
